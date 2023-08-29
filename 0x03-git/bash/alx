@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo echo "ALX School is so cool!"
 =======
 echo "ALX School is so cool!"
 >>>>>>> fc8a4a1f31a8326584ae543b18263e2f1b959478
+=======
+echo "ALX School is so cool!"
+>>>>>>> master
